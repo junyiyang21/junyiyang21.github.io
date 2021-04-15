@@ -25,13 +25,13 @@ I am a Resident in Obstetrics and Gynecology Hospital of Fudan University. I am 
 # Work Experience 
 * 2019-2011 Resident in Obstetrics and Gynecology Hospital of Fudan University
    
-   ** Outpatient
+   * Outpatient
       1.	Independently explain the disease to patients, write medical records and prescriptions.  
    
-   ** Surgery
+   * Surgery
       1.	Sign the preoperative informed consent.
       2.	Independently complete obstetrics and gynecology operations such as vaginal delivery, curettage, and removal of intrauterine device.
       3.	Complete obstetrics and gynecology operations as the first or second assistant, including cesarean section, hysterectomy, extensive hysterectomy, pelvic lymph node dissection, etc.
  
-   ** Ward
+   * Ward
       1.	Management of tumor patients.
