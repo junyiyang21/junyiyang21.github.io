@@ -6,7 +6,7 @@ layout: default
 ---
 
 
-I am a Resident in Obstetrics and Gynecology Hospital of Fudan University. I am working with Prof. [Xiaoxi Sun]. Here is my [resume]({{ site.url }}/junyi_cv_long.pdf).
+I am a Resident in Obstetrics and Gynecology Hospital of Fudan University. I am working with Prof. [Xiaoxi Sun](https://www.researchgate.net/profile/Xiaoxi-Sun-3). Here is my [resume]({{ site.url }}/junyi_cv_long.pdf).
 
 # Education
 - 2011-2019, M.D. in Obstetrics and Gynecology, Fudan University.
