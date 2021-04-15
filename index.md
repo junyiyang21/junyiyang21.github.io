@@ -23,7 +23,7 @@ I am a Resident in Obstetrics and Gynecology Hospital of Fudan University. I am 
 - 2012 CET-4 602
 
 # Work Experience 
-- 2019-2011 Resident in Obstetrics and Gynecology Hospital of Fudan University
+* 2019-2011 Resident in Obstetrics and Gynecology Hospital of Fudan University
    
    ** Outpatient
       1.	Independently explain the disease to patients, write medical records and prescriptions.  
